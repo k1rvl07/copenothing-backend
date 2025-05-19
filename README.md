@@ -39,4 +39,4 @@ npm run test
 ```
 
 ## Links / Ссылки
-- [Frontend Repository](<link-to-frontend>) / [Репозиторий фронтенда](<link-to-frontend>)
+- [Frontend Repository](<https://github.com/k1rvl07/copenothing-frontend>) / [Репозиторий фронтенда](<https://github.com/k1rvl07/copenothing-frontend>)

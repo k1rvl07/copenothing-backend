@@ -1,0 +1,55 @@
+{
+  "language": "ts",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compile": {
+    "exclude": ["**/*.spec.ts"]
+  },
+  "schematics": {
+    "application": {
+      "spec": false
+    },
+    "class": {
+      "spec": false
+    },
+    "controller": {
+      "spec": false
+    },
+    "decorator": {
+      "spec": false
+    },
+    "filter": {
+      "spec": false
+    },
+    "gateway": {
+      "spec": false
+    },
+    "guard": {
+      "spec": false
+    },
+    "interceptor": {
+      "spec": false
+    },
+    "interface": {
+      "spec": false
+    },
+    "middleware": {
+      "spec": false
+    },
+    "module": {
+      "spec": false
+    },
+    "pipe": {
+      "spec": false
+    },
+    "provider": {
+      "spec": false
+    },
+    "resolver": {
+      "spec": false
+    },
+    "service": {
+      "spec": false
+    }
+  }
+}
